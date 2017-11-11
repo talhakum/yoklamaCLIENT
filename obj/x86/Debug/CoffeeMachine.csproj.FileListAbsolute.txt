@@ -1,0 +1,105 @@
+C:/Users/rfm/documents/visual studio 2010/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/CoffeeMachine.exe
+C:/Users/rfm/documents/visual studio 2010/Projects/CoffeeMachine/CoffeeMachine/bin/Debug/CoffeeMachine.pdb
+C:/Users/rfm/documents/visual studio 2010/Projects/CoffeeMachine/CoffeeMachine/obj/x86/Debug/CoffeeMachine.Form1.resources
+C:/Users/rfm/documents/visual studio 2010/Projects/CoffeeMachine/CoffeeMachine/obj/x86/Debug/CoffeeMachine.Properties.Resources.resources
+C:/Users/rfm/documents/visual studio 2010/Projects/CoffeeMachine/CoffeeMachine/obj/x86/Debug/CoffeeMachine.csproj.GenerateResource.Cache
+C:/Users/rfm/documents/visual studio 2010/Projects/CoffeeMachine/CoffeeMachine/obj/x86/Debug/CoffeeMachine.exe
+C:/Users/rfm/documents/visual studio 2010/Projects/CoffeeMachine/CoffeeMachine/obj/x86/Debug/CoffeeMachine.pdb
+C:/Users/rfm/Documents/Visual Studio 2010/Projects/CoffeeMachine/CoffeeMachine/obj/x86/Debug/CoffeeMachine.csprojResolveAssemblyReference.cache
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/CoffeeMachine.pdb
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csprojResolveAssemblyReference.cache
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Form1.resources
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Properties.Resources.resources
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.GenerateResource.Cache
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.CoreCompileInputs.cache
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.exe
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.pdb
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe.config
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/MySql.Data.dll
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/MySql.Web.dll
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe.config
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.exe
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.pdb
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csprojResolveAssemblyReference.cache
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Form1.resources
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Properties.Resources.resources
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.GenerateResource.Cache
+/Users/macbook/Desktop/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe.config
+/Users/macbook/Desktop/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe
+/Users/macbook/Desktop/CoffeeMachine-master/bin/Debug/CoffeeMachine.pdb
+/Users/macbook/Desktop/CoffeeMachine-master/bin/Debug/MySql.Data.dll
+/Users/macbook/Desktop/CoffeeMachine-master/bin/Debug/MySql.Web.dll
+/Users/macbook/Desktop/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Form1.resources
+/Users/macbook/Desktop/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Properties.Resources.resources
+/Users/macbook/Desktop/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.GenerateResource.Cache
+/Users/macbook/Desktop/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.exe
+/Users/macbook/Desktop/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.pdb
+/Users/macbook/Desktop/CoffeeMachine-master/bin/Debug/Newtonsoft.Json.dll
+/Users/macbook/Desktop/CoffeeMachine-master/bin/Debug/Newtonsoft.Json.xml
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe.config
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.exe
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.pdb
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe.config
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/CoffeeMachine.pdb
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/MySql.Data.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/Newtonsoft.Json.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/Newtonsoft.Json.xml
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Form1.resources
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Properties.Resources.resources
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.GenerateResource.Cache
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.exe
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.pdb
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.IO.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Net.Http.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Net.Http.Extensions.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Net.Http.Primitives.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Net.Http.WebRequest.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Runtime.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Threading.Tasks.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.IO.xml
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Runtime.xml
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Threading.Tasks.xml
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Net.Http.xml
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Net.Http.Extensions.xml
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Net.Http.Primitives.xml
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Debug/System.Net.Http.WebRequest.xml
+C:/Users/OrhanTalha/Desktop/bitirme/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe.config
+C:/Users/OrhanTalha/Desktop/bitirme/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.exe
+C:/Users/OrhanTalha/Desktop/bitirme/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.pdb
+C:/Users/OrhanTalha/Desktop/bitirme/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csprojResolveAssemblyReference.cache
+C:/Users/OrhanTalha/Desktop/bitirme/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Form1.resources
+C:/Users/OrhanTalha/Desktop/bitirme/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Properties.Resources.resources
+C:/Users/OrhanTalha/Desktop/bitirme/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.GenerateResource.Cache
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe.config
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/CoffeeMachine.pdb
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/MySql.Data.dll
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/Newtonsoft.Json.dll
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.IO.dll
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Net.Http.dll
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Net.Http.Extensions.dll
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Net.Http.Primitives.dll
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Net.Http.WebRequest.dll
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Runtime.dll
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Threading.Tasks.dll
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/Newtonsoft.Json.xml
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.IO.xml
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Runtime.xml
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Threading.Tasks.xml
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Net.Http.xml
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Net.Http.Extensions.xml
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Net.Http.Primitives.xml
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/bin/Debug/System.Net.Http.WebRequest.xml
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Form1.resources
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Properties.Resources.resources
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.GenerateResource.Cache
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.exe
+/Users/macbook/Desktop/adsız klasör 2/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.pdb

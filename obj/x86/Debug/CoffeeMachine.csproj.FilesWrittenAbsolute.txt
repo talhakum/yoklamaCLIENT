@@ -1,0 +1,10 @@
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Form1.resources
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.Properties.Resources.resources
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe.config
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/CoffeeMachine.pdb
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/CoffeeMachine.exe
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.exe
+/Users/macbook/Downloads/CoffeeMachine-master/obj/x86/Debug/CoffeeMachine.pdb
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/MySql.Data.dll
+/Users/macbook/Downloads/CoffeeMachine-master/bin/Debug/MySql.Web.dll

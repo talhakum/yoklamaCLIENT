@@ -1,0 +1,41 @@
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/bin/Release/CoffeeMachine.exe.config
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.Form1.resources
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.Properties.Resources.resources
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.csproj.GenerateResource.Cache
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/bin/Release/CoffeeMachine.exe
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/bin/Release/CoffeeMachine.pdb
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/bin/Release/MySql.Data.dll
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.exe
+C:/Users/OrhanTalha/Downloads/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.pdb
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/bin/Release/CoffeeMachine.exe.config
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.exe
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.pdb
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/bin/Release/CoffeeMachine.exe
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/bin/Release/CoffeeMachine.pdb
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/bin/Release/MySql.Data.dll
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/bin/Release/Newtonsoft.Json.dll
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/bin/Release/Newtonsoft.Json.xml
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.csprojResolveAssemblyReference.cache
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.Form1.resources
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.Properties.Resources.resources
+C:/Users/OrhanTalha/Desktop/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.csproj.GenerateResource.Cache
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Release/CoffeeMachine.exe.config
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Release/CoffeeMachine.exe
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Release/CoffeeMachine.pdb
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Release/MySql.Data.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Release/Newtonsoft.Json.dll
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/bin/Release/Newtonsoft.Json.xml
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.csprojResolveAssemblyReference.cache
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.Form1.resources
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.Properties.Resources.resources
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.csproj.GenerateResource.Cache
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.exe
+/Users/macbook/Desktop/adsız klasör/CoffeeMachine-master/obj/x86/Release/CoffeeMachine.pdb
+C:\Users\OrhanTalha\Desktop\bitirme\CoffeeMachine-master\bin\Release\CoffeeMachine.exe.config
+C:\Users\OrhanTalha\Desktop\bitirme\CoffeeMachine-master\obj\x86\Release\CoffeeMachine.exe
+C:\Users\OrhanTalha\Desktop\bitirme\CoffeeMachine-master\obj\x86\Release\CoffeeMachine.pdb
+C:\Users\OrhanTalha\Desktop\bitirme\CoffeeMachine-master\obj\x86\Release\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\OrhanTalha\Desktop\bitirme\CoffeeMachine-master\obj\x86\Release\CoffeeMachine.Form1.resources
+C:\Users\OrhanTalha\Desktop\bitirme\CoffeeMachine-master\obj\x86\Release\CoffeeMachine.Properties.Resources.resources
+C:\Users\OrhanTalha\Desktop\bitirme\CoffeeMachine-master\obj\x86\Release\CoffeeMachine.csproj.GenerateResource.Cache
